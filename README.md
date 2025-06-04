@@ -36,6 +36,7 @@ Here are a few areas I'm currently exploring or have built projects in:
 
 - 🖥️ In recent days by learniing javascript made a Website GameHub having 2 mini games.
 - Tic Tac toe and Rock Paper Scissors....and will add more in future
+- Also made a clone of Amazon website
 
 (Feel free to check out my repositories to see my work!)
 
