@@ -44,7 +44,7 @@ Here are a few areas I'm currently exploring or have built projects in:
 
 ## 📫 Let's Connect
 
-- 🔗
+- 🔗 LinkedIn: https://www.linkedin.com/in/yash6352-rs
 - 📧 Email: yashpanchal14220041@gmail.com
 
 ---
