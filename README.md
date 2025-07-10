@@ -64,7 +64,7 @@ When learning React.js build a TextUtils App – a React-based utility app for b
 - Remove extra spaces
 - Toggle between dark mode and light mode for better UI experience
 
-### 🖥️ In recent days by learniing javascript made a Website GameHub having 2 mini games.
+### 🖥️ Days when learning javascript made a Website GameHub having 2 mini games.
 - Tic Tac toe and Rock Paper Scissors....and will add more in future
 - Also made a clone of Amazon website
 
