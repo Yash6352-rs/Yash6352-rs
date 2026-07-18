@@ -73,7 +73,15 @@ I'm passionate about building intelligent applications that combine **Artificial
 
 **LLMs & AI Frameworks**
 
-- LangChain - LangGraph - LlamaIndex - Pinecone - OpenRouter - Gemini - Llama 2 - RAG - Agentic AI
+- LangChain
+- LangGraph
+- LlamaIndex
+- Pinecone
+- OpenRouter
+- Gemini
+- Llama 2
+- RAG
+- Agentic AI
 
 ---
 
