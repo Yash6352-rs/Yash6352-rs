@@ -1,34 +1,70 @@
-# 👋 Hi, I'm Panchal Yash!
+# 👋 Hi, I'm Yash Panchal!
 
-🎓 A passionate 4th-year Computer Engineering student with a deep interest in software development, emerging technologies, and problem-solving.
-    I'm constantly exploring new technologies and building projects that make an impact.
+🎓 Computer Engineering Graduate | 🤖 AI/ML Enthusiast | 📱 Mobile App Developer
+
+I'm passionate about building intelligent applications that combine **Artificial Intelligence** with modern **Mobile and Web Technologies**. I enjoy solving real-world problems through AI, developing scalable applications, and continuously exploring emerging technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Always curious about how things work and love turning ideas into reality with code.
-- 🔭 Currently working on some exciting personal and academic projects.
-- 🤖 Learning and building in **AI/ML** – recently started applying deep learning in real-world mini-projects.
-- 📚 Actively learning new technologies and frameworks to keep up with the tech industry.
-- 🤝 Open to collaboration on interesting open-source or innovative projects.
-- 🌱 Improving my skills in backend development, Android app development.
+- 🎓 Graduated with a **B.E. in Computer Engineering** from Vishwakarma Government Engineering College (VGEC), Ahmedabad.
+- 📱 Completed a **Mobile App Development Internship**, building cross-platform applications using **React Native, Expo, and Firebase**.
+- 🤖 Completed an **AI/ML Internship**, where I worked on Machine Learning, Generative AI, RAG systems, and Agentic AI applications.
+- 💡 Passionate about building AI-powered products that solve real-world problems.
+- 🌱 Currently exploring **LLMs, Agentic AI, RAG Pipelines, LangChain, LangGraph, and Generative AI**.
+- 🚀 Actively seeking opportunities as an **AI Engineer / Machine Learning Engineer / Generative AI Engineer**.
+- 🤝 Open to collaborating on AI, Mobile Development, and Open Source projects.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
-- **Java**
-- **Python**
-- (Learning: JavaScript, Node.js, React)
+- Java
+- Python
+- JavaScript
+- TypeScript
+- C / C++
 
-### 🔧 Tools & Technologies
-- **Git & GitHub**
-- **Android Studio**
-- **NumPy, Pandas**
-- **VS Code**
-- **SQLite (Basics)**
+### 📱 Mobile Development
+- React Native
+- Expo
+- Flutter
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Generative AI
+- LangChain
+- LangGraph
+- LlamaIndex
+- RAG
+- LLMs
+- Pinecone
+
+### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- Flask
+- HTML
+- CSS
+
+### 🗄️ Databases & Cloud
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Realtime Database
+- MongoDB
+- MySQL
+- Cloudinary
+
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Android Studio
+- Postman
+- Stitch AI
 
 ---
 
