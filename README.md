@@ -56,18 +56,6 @@ I'm passionate about building intelligent applications that combine **Artificial
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**LLMs & AI Frameworks**
-
-- LangChain
-- LangGraph
-- LlamaIndex
-- Pinecone
-- OpenRouter
-- Gemini
-- Llama 2
-- RAG
-- Agentic AI
-
 ### 🗄️ Database & Cloud
 
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -82,6 +70,10 @@ I'm passionate about building intelligent applications that combine **Artificial
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**LLMs & AI Frameworks**
+
+- LangChain - LangGraph - LlamaIndex - Pinecone - OpenRouter - Gemini - Llama 2 - RAG - Agentic AI
 
 ---
 
