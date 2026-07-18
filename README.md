@@ -153,12 +153,6 @@ I'm passionate about building intelligent applications that combine **Artificial
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Yash6352-rs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Yash6352-rs&theme=tokyonight&hide_border=true&include_all_commits=true)
