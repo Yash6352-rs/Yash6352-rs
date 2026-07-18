@@ -1,163 +1,18 @@
-# 👋 Hi, I'm Yash Panchal!
+# 💫 About Me:
+👋 Hi, I'm Yash Panchal!<br>🎓 Computer Engineering Graduate | 🤖 AI/ML Enthusiast | 📱 Mobile App Developer<br><br>I'm passionate about building intelligent applications that combine Artificial Intelligence with modern Mobile and Web Technologies. I enjoy solving real-world problems through AI, developing scalable applications, and continuously exploring emerging technologies.<br><br>🚀 About Me<br>🎓 Graduated with a B.E. in Computer Engineering from Vishwakarma Government Engineering College (VGEC), Ahmedabad.<br>📱 Completed a Mobile App Development Internship, building cross-platform applications using React Native, Expo, and Firebase.<br>🤖 Completed an AI/ML Internship, where I worked on Machine Learning, Generative AI, RAG systems, and Agentic AI applications.<br>💡 Passionate about building AI-powered products that solve real-world problems.<br>🌱 Currently exploring LLMs, Agentic AI, RAG Pipelines, LangChain, LangGraph, and Generative AI.<br>🚀 Actively seeking opportunities as an AI Engineer / Machine Learning Engineer / Generative AI Engineer.<br>🤝 Open to collaborating on AI, Mobile Development, and Open Source projects.
 
-🎓 Computer Engineering Graduate | 🤖 AI/ML Enthusiast | 📱 Mobile App Developer
 
-I'm passionate about building intelligent applications that combine **Artificial Intelligence** with modern **Mobile and Web Technologies**. I enjoy solving real-world problems through AI, developing scalable applications, and continuously exploring emerging technologies.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash6352-rs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashpanchal1422004@gmail.com) 
 
----
-
-## 🚀 About Me
-
-- 🎓 Graduated with a **B.E. in Computer Engineering** from Vishwakarma Government Engineering College (VGEC), Ahmedabad.
-- 📱 Completed a **Mobile App Development Internship**, building cross-platform applications using **React Native, Expo, and Firebase**.
-- 🤖 Completed an **AI/ML Internship**, where I worked on Machine Learning, Generative AI, RAG systems, and Agentic AI applications.
-- 💡 Passionate about building AI-powered products that solve real-world problems.
-- 🌱 Currently exploring **LLMs, Agentic AI, RAG Pipelines, LangChain, LangGraph, and Generative AI**.
-- 🚀 Actively seeking opportunities as an **AI Engineer / Machine Learning Engineer / Generative AI Engineer**.
-- 🤝 Open to collaborating on AI, Mobile Development, and Open Source projects.
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Yash6352-rs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Yash6352-rs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash6352-rs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Yash6352-rs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming Languages
-- Java
-- Python
-- JavaScript
-- TypeScript
-- C / C++
-
-### 📱 Mobile Development
-- React Native
-- Expo
-- Flutter
-
-### 🤖 AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Generative AI
-- LangChain
-- LangGraph
-- LlamaIndex
-- RAG
-- LLMs
-- Pinecone
-
-### 🌐 Web Development
-- React.js
-- Node.js
-- Express.js
-- Flask
-- HTML
-- CSS
-
-### 🗄️ Databases & Cloud
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Realtime Database
-- MongoDB
-- MySQL
-- Cloudinary
-
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Android Studio
-- Postman
-- Stitch AI
-
----
-
-## 📈 Projects
-Here are a few areas I'm currently exploring or have built projects in:
-
-
-### 📱 Exchanza
-AI-Powered Skill & Service Exchange Platform
-
-- Built a full-stack platform for exchanging skills and services without money.
-- Developed a cross-platform mobile app using React Native (Expo) and an Admin Dashboard using React.js.
-- Implemented real-time chat, trade proposal workflows, reviews & ratings, notifications, and PDF invoice generation.
-- Integrated AI-powered Trade Insights using OpenRouter for trade fairness analysis, risk assessment, and smart recommendations.
-- Managed backend with Firebase Authentication, Cloud Firestore, Realtime Database, and Cloudinary.
-- Focus: React Native, Firebase, AI Integration, Real-Time Systems
-- 
-### 💬 StackHive
-AI-Powered Internal Knowledge Sharing Platform
-
-- Built a scalable Q&A platform inspired by Stack Overflow using Flutter and Firebase.
-- Developed features including question posting, answers, voting, bookmarks, search, notifications, and best answer selection.
-- Integrated AI-generated answers using OpenRouter AI to assist users with instant knowledge retrieval.
-- Created an Admin Panel for user moderation, analytics, content management, and platform governance.
-- Implemented Riverpod, GoRouter, and Repository Pattern for scalable architecture.
-- Focus: Flutter, Firebase, AI Assistance, Clean Architecture
-
-### 🤖 CampaignIQ
-Multi-Agent AI Marketing Campaign Generator
-
-- Developed an AI-powered web application that generates complete marketing campaigns from a product idea.
-- Built a multi-agent workflow using LangChain and Gemini 1.5 Flash, where specialized AI agents handle market analysis, customer personas, content generation, and strategy.
-- Designed a Flask-based web interface with downloadable campaign reports.
-- Enabled generation of campaigns for multiple channels including Instagram, Email, Blogs, and YouTube.
-- Focus: LangChain, Multi-Agent AI, Gemini, Flask
-
-### 🧠 Wellness Agent
-AI-Powered Daily Health Companion
-
-- Developed an intelligent wellness assistant that analyzes daily lifestyle habits and provides personalized health feedback.
-- Built an Agentic AI workflow using LangGraph, LangChain, and Gemini 1.5 Flash.
-- Generated personalized wellness classifications (Healthy, Risky, Unhealthy) with actionable recommendations.
-- Designed a privacy-first browser application with downloadable session summaries and local JSON storage.
-- Created during the IBM SkillBuild × GTU AI Internship as a real-world AI project.
-- Focus: Agentic AI, LangGraph, Gemini AI, Flask
-
-### 🩺 Medical Chatbot
-LLM-Powered Medical Question Answering System
-
-- Developed a Retrieval-Augmented Generation (RAG) chatbot capable of answering medical questions using a locally hosted Llama 2 7B model.
-- Built an intelligent retrieval pipeline with LangChain and Pinecone to search medical PDFs and generate context-aware responses.
-- Designed a custom Flask web interface for interactive healthcare conversations with semantic document search.
-- Implemented vector embeddings and similarity search to improve answer relevance while keeping inference completely local.
-- Focus: Llama 2, RAG, LangChain, Pinecone, Flask, Healthcare AI
-
-### 🧠 DL Projects:
-As part of exploring deep learning and neural networks, I’ve started building intelligent systems that combine NLP and DL models using Python, PyTorch, NLTK, Flask.
-- 🤖 AI Assistant (Chatbot) – Built a personalized AI chatbot using PyTorch, NLTK, and Flask. It can respond to user queries, open websites/apps, check time/date, and even search files on the system.
-- 📝 Sketch-to-Emoji Converter (Upcoming) – Will develop a DL-based app that converts user sketches to emojis using ANN and CNN models.
-- 🔄 More DL/NLP Projects Coming Soon! – Continuously expanding my portfolio with real-world deep learning applications.
-
-### 🤖 ML Projects:
-As part of my ongoing AI/ML training, I developed a series of end-to-end machine learning projects focused on real-world problem-solving, applying data preprocessing, model training, evaluation, and deployment     techniques using Python, Scikit-learn, Pandas, NumPy.
-- 📊 BMI Prediction – Built a regression model to estimate Body Mass Index using lifestyle and health-related data.
-- ✈️ Flight Delay Prediction – Created a classification model to predict whether a flight will be delayed using historical flight data.
-- 💰 Loan Eligibility Prediction – Designed a model to evaluate loan approval chances based on applicant credit and financial details.
-
-### 🧠 MindMapper.AI
-- A full-stack web app for creating and managing mind maps.
-- Built with React (Vite) on the frontend, Node.js/Express backend, and MongoDB Atlas for storage.
-- Integrated with AI (via OpenRouter) to suggest nodes/ideas.
-- Focus: Productivity, visualization, and AI-assisted brainstorming.
-
-
-(Feel free to check out my repositories to see my work!)
-
----
-
-## 📫 Let's Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/yash6352-rs
-- 📧 Email: yashpanchal1422004@gmail.com
-
----
-
-## 🌟 Fun Facts
-
-- 🎮 I enjoy playing tech-based strategy games in my free time.
-- 💭 I believe in “learning by doing”—hands-on practice is the best teacher!
-- 🧠 Always trying to improve myself 1% every day.
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me! 😊
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
